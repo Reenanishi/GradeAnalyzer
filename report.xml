@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<HealthReport>
+    <bloodPressure>120</bloodPressure>
+    <bmi>22.0</bmi>
+    <cholesterolLDL>100</cholesterolLDL>
+    <cholesterolHDL>200</cholesterolHDL>
+    <bloodGlucoseHemoglobin>45</bloodGlucoseHemoglobin>
+    <triglycerides>40</triglycerides>
+</HealthReport>
